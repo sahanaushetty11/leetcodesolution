@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sahanaushetty11/leetcodesolution/tree/master/0001-two-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/sahanaushetty11/leetcodesolution/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
