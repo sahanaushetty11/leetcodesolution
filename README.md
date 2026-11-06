@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/sahanaushetty11/leetcodesolution/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sahanaushetty11/leetcodesolution/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahanaushetty11/leetcodesolution/tree/master/0035-search-insert-position) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
