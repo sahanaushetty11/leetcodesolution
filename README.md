@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahanaushetty11/leetcodesolution/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/sahanaushetty11/leetcodesolution/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sahanaushetty11/leetcodesolution/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahanaushetty11/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sahanaushetty11/leetcodesolution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
